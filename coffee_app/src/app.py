@@ -43,4 +43,3 @@ with c2:
 # --- TABLA DE DATOS ---
 with st.expander("Ver detalle de la tabla de datos"):
     st.dataframe(df, use_container_width=True)
-
